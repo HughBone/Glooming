@@ -4,6 +4,8 @@
 
 > **Tabletop simulator scripted game guide:** <https://steamusercontent-a.akamaihd.net/ugc/2002446038662650433/8A7A91FF0F1C1B59E8EC3CDAA34B868CDF0F73AD/>
 
+> Scenario PDF: <https://steamusercontent-a.akamaihd.net/ugc/788631267073463803/C59F6D1EA2216D823721EA579E5DB2C1EB934B51/>
+
 # Overview
 - **Pick character:**
 	- Each character has:
