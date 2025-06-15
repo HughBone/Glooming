@@ -1,5 +1,7 @@
 > Gloomhaven is a co-op choose-your-own-adventure campaign RPG board game like D&D, but everyone gets to play a character.
 
+> **Story Tracker:** <https://gloomhaven-storyline.com/tracker/#/story>
+
 > **Rulebook:** <https://cdn.1j1ju.com/medias/8d/c5/21-gloomhaven-rulebook.pdf>
 
 > **Tabletop simulator scripted game guide:** <https://steamusercontent-a.akamaihd.net/ugc/2002446038662650433/8A7A91FF0F1C1B59E8EC3CDAA34B868CDF0F73AD/>
