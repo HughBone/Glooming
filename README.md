@@ -8,6 +8,8 @@
 
 > Scenario PDF: <https://steamusercontent-a.akamaihd.net/ugc/788631267073463803/C59F6D1EA2216D823721EA579E5DB2C1EB934B51/>
 
+> Retirement checklist: <https://imgur.com/gallery/gloomhaven-retirement-checklist-v1-3-6SId0gq/>
+
 # Overview
 - **Pick character:**
 	- Each character has:
